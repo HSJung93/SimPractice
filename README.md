@@ -8,4 +8,4 @@ Now, let me introduce my simulation practices that I search with "simulation in 
 ## 2. UNT; basic regression simulations
 ## 3. Answering question with data; t.test, anova
 ## 4. R Programming Data Science; log pois model 
-## 5. Modern Data Science with R; simulation for statiscal problem solving
+## 5. Modern Data Science with R; simulation for statistical problem solving
