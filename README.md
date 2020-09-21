@@ -13,3 +13,4 @@ Now, let me introduce my simulation practices that I search with "simulation in 
 
 # Panel Simulation
 ## 1. Simulation for PanelMatch: with lagged terms, two-stage, two-way-fixed 
+## 2. Simulation for GSynth: with factor loading, fixed effects are simulated with random effects
