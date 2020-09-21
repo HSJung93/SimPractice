@@ -3,10 +3,13 @@ It starts at 20200916. In order to save my simulation code on remote repository.
 
 Now, let me introduce my simulation practices that I search with "simulation in r" in google.
 
-# Index
+# Preliminary
 ## 1. StanfordBios221; r simulation techniques
 ## 2. UNT; basic regression simulations
 ## 3. Answering question with data; t.test, anova
 ## 4. R Programming Data Science; log pois model 
 ## 5. Modern Data Science with R; simulation for statistical problem solving
 ## 6. Very Statisticious; r simulation protocol, regression, poisson-log, binomial-inverselogit
+
+# Panel Simulation
+## 1. Simulation for PanelMatch: with lagged terms, two-stage, two-way-fixed 
