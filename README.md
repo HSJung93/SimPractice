@@ -3,7 +3,7 @@ It starts at 20200916. In order to save my simulation code on remote repository.
 
 Now, let me introduce my simulation practices that I search with "simulation in r" in google.
 
-# Preliminary
+## Preliminary
 ### 1. StanfordBios221
 r simulation techniques
 ### 2. UNT
@@ -17,7 +17,7 @@ simulation for statistical problem solving
 ### 6. Very Statisticious
 r simulation protocol, regression, poisson-log, binomial-inverselogit
 
-# Panel Simulation
+## Panel Simulation
 ### 1. Simulation for PanelMatch
 with lagged terms, two-stage, two-way-fixed 
 ### 2. Simulation for GSynth
