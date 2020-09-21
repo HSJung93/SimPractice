@@ -1,16 +1,14 @@
 
-# Panel Data Simulatino for PanelMatch
+# Panel Data Simulation for PanelMatch
 ### https://imai.fas.harvard.edu/research/files/tscs.pdf
+
+set.seed(20200920)
 
 N = 162
 T = 51
 Z_bin_prob = .5
 
 (X_zero = rep("control", n = N*T))
-
-rep(1:3, 4)
-
-set.seed(20200920)
 (Units = rep(runif(N, 0, 1),T))
 (Units.factor = rep(as.character(1:N) , T))
 (Times = rep(runif(T, 0, 1), each = N))
