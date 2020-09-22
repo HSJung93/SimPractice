@@ -4,21 +4,32 @@ It starts at 20200916. In order to save my simulation code on remote repository.
 Now, let me introduce my simulation practices that I search with "simulation in r" in google.
 
 ## Preliminary
-### 1. StanfordBios221
-r simulation techniques
-### 2. UNT
-basic regression simulations
-### 3. Answering question with data
-t.test, anova
-### 4. R Programming Data Science
-log pois model 
-### 5. Modern Data Science with R
-simulation for statistical problem solving
-### 6. Very Statisticious
-r simulation protocol, regression, poisson-log, binomial-inverselogit
+### 1. R Simulation Techniques 
+StanfordBios221
+
+### 2. Basic Regression Simulations
+UNT
+
+### 3. T.test, ANOVA Simulation
+Answering question with data
+
+### 4. Log Poisson Model Simulation
+R Programming Data Science
+
+### 5. Simulations for Statistical Problem
+Modern Data Science with R
+
+### 6. R Simulation Guideline, Regression, Poisson-Log, Binomial-Inverse Logit Model
+Very Statisticious
+
 
 ## Panel Simulation
 ### 1. Simulation for PanelMatch
-with lagged terms, two-stage, two-way-fixed 
+* Lagged terms: X, Z. 
+* Two-stage: generate T with X, after generating X with Z.
+* Two-way-fixed.
+
 ### 2. Simulation for GSynth
-with factor loading, fixed effects are simulated with random effects
+* Factor and factor loading. 
+* Two-stage: generate T with X, after generating X with Z.
+* Two-way-fixed: Actually, fixed effects are simulated with random effects.
