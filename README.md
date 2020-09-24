@@ -5,22 +5,22 @@ Now, let me introduce my simulation practices that I search with "simulation in 
 
 ## Preliminary
 ### 1. R Simulation Techniques 
-StanfordBios221
+* StanfordBios221
 
 ### 2. Basic Regression Simulations
-UNT
+* UNT
 
 ### 3. T.test, ANOVA Simulation
-Answering question with data
+* Answering question with data
 
 ### 4. Log Poisson Model Simulation
-R Programming Data Science
+* R Programming Data Science
 
-### 5. Simulations for Statistical Problem
-Modern Data Science with R
+### 5. Simulations for some Statistical Problems
+* Modern Data Science with R
 
 ### 6. R Simulation Guideline, Regression, Poisson-Log, Binomial-Inverse Logit Model
-Very Statisticious
+* Very Statisticious
 
 
 ## Panel Simulation
