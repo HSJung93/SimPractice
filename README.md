@@ -1,7 +1,7 @@
 # Simulation Practices for panel data
-It starts at 20200916. In order to save my simulation code on remote repository. I chose to use github so that I can learn github knowledge with my simulation studies. By the way, It's my first official remote github repository experience. (Previously I used Github only to create my own website.) Congratulates!
+This project starts at 20200916. In order to save my simulation code on Github remote repository, I choose to use github so that I can learn github knowledge with my simulation studies as well. By the way, It's my first official remote github repository experience. (Previously I used Github only for creating my own website.) Congratulates!
 
-Now, let me introduce my simulation practices that I search with "simulation in r" in google.
+Now, let me introduce my simulation practices that I search with "simulation in r" keyword in google, some papers and textbooks.
 
 ## Preliminary
 ### 1. R Simulation Techniques 
